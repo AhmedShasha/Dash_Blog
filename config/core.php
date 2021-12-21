@@ -17,9 +17,9 @@ class core extends mysqli
 
 
     var $server = "localhost";
-    var $dbname = "admin_blogs";
-    var $username = "admin";
-    var $password = 'M0#m*d$d&s@';
+    var $dbname = "demo_blogs";
+    var $username = "demo";
+    var $password = '$d#s0lut!0n$';
 
     // var $username = "root";
     // var $password = '';
